@@ -22,14 +22,6 @@ The provided Python script performs the following steps:
 
 8. **Saving and Displaying the Pencil Sketch**: The pencil sketch is saved to a file named "Final_pencil_sketch.png" and is also displayed.
 
-## Example
-
-Here's an example of the input and output images:
-
-Input Image             |  Pencil Sketch Output
-:-------------------------:|:-------------------------:
-![Input Image](http://localhost:8888/view/PicsArt_02-28-09.06.27.jpg)  |  ![Pencil Sketch](Final_pencil_sketch.png)
-
 ## Contributing
 
 Contributions to this repository are welcome! If you have any improvements or ideas, feel free to submit a pull request.
