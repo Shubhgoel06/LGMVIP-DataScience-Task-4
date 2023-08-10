@@ -28,7 +28,7 @@ Here's an example of the input and output images:
 
 Input Image             |  Pencil Sketch Output
 :-------------------------:|:-------------------------:
-![Input Image](PicsArt_02-28-09.06.27.jpg)  |  ![Pencil Sketch](Final_pencil_sketch.png)
+![Input Image](http://localhost:8888/view/PicsArt_02-28-09.06.27.jpg)  |  ![Pencil Sketch](Final_pencil_sketch.png)
 
 ## Contributing
 
